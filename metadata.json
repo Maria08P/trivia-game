@@ -1,0 +1,6 @@
+{
+  "name": "The Hairless Menagerie: Velvet Elevator Trivia",
+  "description": "An elegant green-and-gold trivia experience celebrating bald, hairless, and smooth creatures with bespoke synthesized elevator bossa nova and interactive quiz modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
